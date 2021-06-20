@@ -1,5 +1,8 @@
 # Portfolio
 
+This portfolio contains the names and the appstore connect screenshots of the apps that I developed/contributed.
+Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
+
 ## PulseFit
 
 <img src="https://user-images.githubusercontent.com/24501212/122691512-0e936e80-d228-11eb-8f4e-ef6bbd91359c.PNG" width="150">,
