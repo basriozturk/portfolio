@@ -6,21 +6,21 @@ Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
 
 ## Jelly Baton 3D
 
-<img src="https://user-images.githubusercontent.com/24501212/159186475-9cd90b9d-5579-40d8-9c4a-0d5e9129a29b.png" width="150">
+<img src="https://user-images.githubusercontent.com/24501212/159186475-9cd90b9d-5579-40d8-9c4a-0d5e9129a29b.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/159186479-8c248eaf-d6b4-4032-93eb-1ddcbebd4fdb.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/159186481-dedea697-f855-4177-8bd5-821c7a54e0b9.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/159186483-07e45949-96dd-4fc8-b495-50e96579498c.png" width="150">
 
 ## Mortar Clash
 
-<img src="https://user-images.githubusercontent.com/24501212/159186333-998fd6b2-d293-408d-8311-7cde7700d71e.png" width="150">
+<img src="https://user-images.githubusercontent.com/24501212/159186333-998fd6b2-d293-408d-8311-7cde7700d71e.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/159186342-baad03de-b2d4-4eee-a5b4-acac767e0ed6.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/159186345-949a22c1-e10d-4ae0-b4d0-04f54514d543.png" width="150">
 
 
 ## PulseFit
 
-<img src="https://user-images.githubusercontent.com/24501212/122691512-0e936e80-d228-11eb-8f4e-ef6bbd91359c.PNG" width="150">,
+<img src="https://user-images.githubusercontent.com/24501212/122691512-0e936e80-d228-11eb-8f4e-ef6bbd91359c.PNG" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/122691516-1226f580-d228-11eb-810f-5616b1e98dcc.PNG" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122691518-13f0b900-d228-11eb-80de-d32312606b32.PNG" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122691519-14894f80-d228-11eb-9c50-8275c0013a5b.PNG" width="150">
@@ -33,7 +33,7 @@ Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
 
 ## Pulse App: Heart Rate Monitor
 
-<img src="https://user-images.githubusercontent.com/24501212/122690687-f2410300-d222-11eb-8eb8-d74e6c4efad3.png" width="150">,
+<img src="https://user-images.githubusercontent.com/24501212/122690687-f2410300-d222-11eb-8eb8-d74e6c4efad3.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/122690687-f2410300-d222-11eb-8eb8-d74e6c4efad3.png" width="150"> 
 <img src="https://user-images.githubusercontent.com/24501212/122690690-f4a35d00-d222-11eb-82ce-d214a161f207.png" width="150"> 
 <img src="https://user-images.githubusercontent.com/24501212/122690693-f53bf380-d222-11eb-8c4d-58a28c20a05f.png" width="150"> 
@@ -47,7 +47,7 @@ Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
 
 ## Future Baby
 
-<img src="https://user-images.githubusercontent.com/24501212/122690710-0127b580-d223-11eb-9310-2b1c5f23974c.png" width="150">,
+<img src="https://user-images.githubusercontent.com/24501212/122690710-0127b580-d223-11eb-9310-2b1c5f23974c.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/122690712-038a0f80-d223-11eb-872d-cd83fa9b859d.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690715-0422a600-d223-11eb-97a2-29b254ba3321.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690717-04bb3c80-d223-11eb-857f-7d6889c3c51d.png" width="150">
@@ -55,7 +55,7 @@ Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
 
 ## VRMovies
 
-<img src="https://user-images.githubusercontent.com/24501212/122690736-18ff3980-d223-11eb-9140-624f292cef47.png" width="150">,
+<img src="https://user-images.githubusercontent.com/24501212/122690736-18ff3980-d223-11eb-9140-624f292cef47.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/122690740-1a306680-d223-11eb-84e4-bd1c8ca72204.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690741-1ac8fd00-d223-11eb-94c6-80fe13329ec7.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690742-1b619380-d223-11eb-84ef-d2cbd4103360.png" width="150">
@@ -63,7 +63,7 @@ Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
 
 ## Twisty Bouncer
 
-<img src="https://user-images.githubusercontent.com/24501212/122690752-2288a180-d223-11eb-9c6b-81191fac2453.png" width="150">,
+<img src="https://user-images.githubusercontent.com/24501212/122690752-2288a180-d223-11eb-9c6b-81191fac2453.png" width="150">|
 <img src="https://user-images.githubusercontent.com/24501212/122690756-24526500-d223-11eb-9dcc-22169f292314.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690758-24eafb80-d223-11eb-8f8d-27f952e1f768.png" width="150">
 <img src="https://user-images.githubusercontent.com/24501212/122690759-25839200-d223-11eb-840b-cb66da60bf7a.png" width="150">
