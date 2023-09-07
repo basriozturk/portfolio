@@ -22,10 +22,10 @@ Copyright © 2023 Hasan Basri Ozturk. All rights reserved.
 
 ## Kronos: Parental Control
 
-![1284x2778bb](https://github.com/basriozturk/portfolio/assets/24501212/307a517d-3423-46c1-a529-baa19b57e531)
-![1284x2778bb-2](https://github.com/basriozturk/portfolio/assets/24501212/232b92f8-1977-41e5-a166-89eb859f8e07)
-![1284x2778bb-3](https://github.com/basriozturk/portfolio/assets/24501212/599845e8-7c10-441d-aa31-4d20f55b91ff)
-![1284x2778bb-4](https://github.com/basriozturk/portfolio/assets/24501212/4b7c93ff-b78b-4161-8aa2-39e0babc8046)
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/307a517d-3423-46c1-a529-baa19b57e531">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/232b92f8-1977-41e5-a166-89eb859f8e07">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/599845e8-7c10-441d-aa31-4d20f55b91ff">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/4b7c93ff-b78b-4161-8aa2-39e0babc8046">
 
 ## PulseFit
 
