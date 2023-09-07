@@ -2,21 +2,30 @@
 
 This portfolio contains the names and the appstore connect screenshots of the apps that I developed/contributed.
 
-Copyright © 2020 Hasan Basri Ozturk. All rights reserved.
+Copyright © 2023 Hasan Basri Ozturk. All rights reserved.
 
-## Jelly Baton 3D
+## [ChasePOS](https://apps.apple.com/us/app/chase-point-of-sale-pos/id6443472426)
 
-<img src="https://user-images.githubusercontent.com/24501212/159186475-9cd90b9d-5579-40d8-9c4a-0d5e9129a29b.png" width="150">|
-<img src="https://user-images.githubusercontent.com/24501212/159186479-8c248eaf-d6b4-4032-93eb-1ddcbebd4fdb.png" width="150">
-<img src="https://user-images.githubusercontent.com/24501212/159186481-dedea697-f855-4177-8bd5-821c7a54e0b9.png" width="150">
-<img src="https://user-images.githubusercontent.com/24501212/159186483-07e45949-96dd-4fc8-b495-50e96579498c.png" width="150">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/2d9bddf4-fe2b-4138-af4d-e3c683d5fdac">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/d07e31bc-bb36-4dea-ae99-40f12a720e20">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/28c552ab-3cf6-4932-ae82-b9b6ee8cfd95">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/2553aa3e-0f54-4be4-9d7d-f0102116b38d">
 
-## Mortar Clash
 
-<img src="https://user-images.githubusercontent.com/24501212/159186333-998fd6b2-d293-408d-8311-7cde7700d71e.png" width="150">|
-<img src="https://user-images.githubusercontent.com/24501212/159186342-baad03de-b2d4-4eee-a5b4-acac767e0ed6.png" width="150">
-<img src="https://user-images.githubusercontent.com/24501212/159186345-949a22c1-e10d-4ae0-b4d0-04f54514d543.png" width="150">
+## [Chase Mobile Checkout](https://apps.apple.com/us/app/chase-mobile-checkout/id591453284)
 
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/f3fa2dfd-cdaf-4592-93b5-23aa21807f4c">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/2ce072dc-6994-4f96-910d-a19f900ed59c">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/10fac015-cbe2-41e9-b179-70056e6c257a">
+<img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/299400dd-9807-44a1-b8db-26df78005127">
+
+
+## Kronos: Parental Control
+
+![1284x2778bb](https://github.com/basriozturk/portfolio/assets/24501212/307a517d-3423-46c1-a529-baa19b57e531)
+![1284x2778bb-2](https://github.com/basriozturk/portfolio/assets/24501212/232b92f8-1977-41e5-a166-89eb859f8e07)
+![1284x2778bb-3](https://github.com/basriozturk/portfolio/assets/24501212/599845e8-7c10-441d-aa31-4d20f55b91ff)
+![1284x2778bb-4](https://github.com/basriozturk/portfolio/assets/24501212/4b7c93ff-b78b-4161-8aa2-39e0babc8046)
 
 ## PulseFit
 
