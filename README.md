@@ -20,7 +20,7 @@ Copyright © 2023 Hasan Basri Ozturk. All rights reserved.
 <img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/299400dd-9807-44a1-b8db-26df78005127">
 
 
-## Kronos: Parental Control
+## [Kronos: Parental Control](https://apps.apple.com/us/app/kronos-parental-control/id1617916528)
 
 <img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/307a517d-3423-46c1-a529-baa19b57e531">
 <img width="232" src="https://github.com/basriozturk/portfolio/assets/24501212/232b92f8-1977-41e5-a166-89eb859f8e07">
